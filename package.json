@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
+    "@openzeppelin/contracts": "^5.2.0",
     "web3": "^4.16.0"
   },
   "devDependencies": {
